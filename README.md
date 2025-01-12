@@ -74,9 +74,13 @@ Risk of malware if downloaded from untrusted sources.
 If Sportzfy doesn’t meet your requirements, consider these alternatives:
 
 Hotstar: Official broadcaster of cricket and other sports in certain regions.
+
 ESPN+: Comprehensive coverage of international sports.
+
 SonyLIV: Offers live streaming of cricket, football, and more.
+
 Willow TV: A great option for cricket fans in the US.
-Final Thoughts 💭
+
+## Final Thoughts 💭
 The Sportzfy App is an excellent choice for sports fans who want free, high-quality access to live matches across various sports. Its user-friendly interface, wide range of features, and accessibility make it a fan-favorite. However, always exercise caution when using third-party streaming apps, and whenever possible, support official broadcasters to ensure the sustainability of sports coverage.
 
